@@ -1,4 +1,4 @@
-# endoflife-ai
+# endoflife.ai
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,147 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-endoflife-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://endoflife.ai/
+endoflife.ai provides a free public platform for software end-of-life intelligence, offering dates, CVE risk scores, and upgrade paths for over 700 products and 15,000 versions. Users can paste package.json or requirements.txt to receive an instant EOL risk verdict for their entire stack. Data is reconciled from official vendor lifecycle pages, endoflife.date, NVD, and CISA KEV, ensuring reliable source attribution.
+
+**Areas:** Software · Lifecycle · Risk · OpenData · Free
+
+## endoflife.ai on APIs.io
+
+Everything profiled for endoflife.ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/endoflife-ai/](https://apis.io/providers/endoflife-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (13)
+
+- [Endoflife.ai API](https://apis.io/apis/endoflife-ai/endoflife-ai-api/) — API providing EOL dates, risk scores, and upgrade paths for software products.
+- [endoflife.ai Alerts API](https://apis.io/apis/endoflife-ai/endoflife-ai-alerts-api/) — The Alerts API from endoflife.ai — 3 operation(s) for alerts.
+- [endoflife.ai Badge API](https://apis.io/apis/endoflife-ai/endoflife-ai-badge-api/) — The Badge API from endoflife.ai — 2 operation(s) for badge.
+- [endoflife.ai Batch API](https://apis.io/apis/endoflife-ai/endoflife-ai-batch-api/) — The Batch API from endoflife.ai — 1 operation(s) for batch.
+- [endoflife.ai Endoflife.ai API](https://apis.io/apis/endoflife-ai/endoflife-ai-endoflife-ai-api-api/) — The Endoflife.ai API API from endoflife.ai — 1 operation(s) for endoflife.ai api.
+- [endoflife.ai Keys API](https://apis.io/apis/endoflife-ai/endoflife-ai-keys-api/) — The Keys API from endoflife.ai — 1 operation(s) for keys.
+- [endoflife.ai Metrics API](https://apis.io/apis/endoflife-ai/endoflife-ai-metrics-api/) — The Metrics API from endoflife.ai — 1 operation(s) for metrics.
+- [endoflife.ai Openapi.json API](https://apis.io/apis/endoflife-ai/endoflife-ai-openapi-json-api/) — The Openapi.json API from endoflife.ai — 1 operation(s) for openapi.json.
+- [endoflife.ai Product API](https://apis.io/apis/endoflife-ai/endoflife-ai-product-api/) — The Product API from endoflife.ai — 1 operation(s) for product.
+- [endoflife.ai Products API](https://apis.io/apis/endoflife-ai/endoflife-ai-products-api/) — The Products API from endoflife.ai — 1 operation(s) for products.
+- [endoflife.ai Sbom API](https://apis.io/apis/endoflife-ai/endoflife-ai-sbom-api/) — The Sbom API from endoflife.ai — 2 operation(s) for sbom.
+- [endoflife.ai Score API](https://apis.io/apis/endoflife-ai/endoflife-ai-score-api/) — The Score API from endoflife.ai — 2 operation(s) for score.
+- [endoflife.ai Status API](https://apis.io/apis/endoflife-ai/endoflife-ai-status-api/) — The Status API from endoflife.ai — 1 operation(s) for status.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Endoflife Ai Agentic Access](https://apis.io/agentic-access/endoflife-ai/endoflife-ai-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Endoflife Ai Context](https://apis.io/jsonld/endoflife-ai/endoflife-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [endoflife.ai API Rules](https://apis.io/rules/endoflife-ai/endoflife-ai-rules/)
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Endoflife Ai Authentication](https://apis.io/security/endoflife-ai/endoflife-ai-authentication/)
+- [Endoflife Ai Domain Security](https://apis.io/security/endoflife-ai/endoflife-ai-domain-security/)
+- [Endoflife Ai Trust Center](https://apis.io/security/endoflife-ai/endoflife-ai-trust-center/)
+- [Endoflife Ai Vulnerability Disclosure](https://apis.io/security/endoflife-ai/endoflife-ai-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Endoflife Ai Scopes](https://apis.io/scopes/endoflife-ai/endoflife-ai-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Endoflife Ai Plans Pricing](https://apis.io/plans/endoflife-ai/endoflife-ai-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Endoflife Ai Rate Limits](https://apis.io/rate-limits/endoflife-ai/endoflife-ai-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://endoflife.ai/)
+- [Documentation](https://endoflife.ai/api)
+- [Getting started](https://endoflife.ai/how-it-works)
+- [API reference](https://endoflife.ai/api)
+- [Support](https://endoflife.ai/extended-support-vendors)
+- [Changelog](https://endoflife.ai/changelog)
+- [Security](https://endoflife.ai/security)
+- [Compliance](https://endoflife.ai/security)
+- [Terms of service](https://endoflife.ai/terms)
+- [Privacy policy](https://endoflife.ai/privacy)
+- [GitHub](https://github.com/endoflife-ai)
+
+## API Evangelist rating
+
+**Kin Score 65.8** — strong · rubric 0.26.0 · scored 2026-11-07
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 52.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 60.0 |
+| Developer ergonomics | 54.8 |
+| Access clarity | 65.3 |
+
+**Agent readiness 42.5** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 45.1** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/endoflife-ai/](https://apis.io/providers/endoflife-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for endoflife.ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/endoflife-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
